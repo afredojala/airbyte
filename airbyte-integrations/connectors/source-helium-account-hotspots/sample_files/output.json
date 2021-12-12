@@ -1,0 +1,2812 @@
+{
+    "type": "RECORD",
+    "record": {
+        "stream": "helium_accounts_hotspots",
+        "data": {
+            "data": [
+                {
+                    "lng": 12.834561554903585,
+                    "lat": 55.404332433447856,
+                    "timestamp_added": "2021-03-02T19:11:35.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T18:53:06.155000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/11mnDCMyB9fFG6r3SAY8tcbg67HFbeL3qKtdZdtdU8nix9isJiZ/p2p-circuit/p2p/11biU1xucn5ah2yb9zQXeiEY7Vc6hLK5ndBJaSiq9smZHByMpu3"
+                        ],
+                        "height": 1136794
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "13ENbEQPAvytjLnqavnbSAzurhGoCSNkGECMx7eHHDAfEaDirdY",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "muscular-juniper-mongoose",
+                    "mode": "full",
+                    "location_hex": "881f051523fffff",
+                    "location": "8c1f051523729ff",
+                    "last_poc_challenge": 1136909,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "Doppinggr\u00e4nd",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Skan\u00f6r med Falsterbo",
+                        "long_street": "Doppinggr\u00e4nd",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Skan\u00f6r med Falsterbo",
+                        "city_id": "c2thbsO2ciBtZWQgZmFsc3RlcmJvc2vDpW5lIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 742938,
+                    "block": 1136983,
+                    "address": "11biU1xucn5ah2yb9zQXeiEY7Vc6hLK5ndBJaSiq9smZHByMpu3"
+                },
+                {
+                    "lng": 12.761230143352268,
+                    "lat": 56.327212754780646,
+                    "timestamp_added": "2021-02-04T22:55:02.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-09T16:31:48.318000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/217.9.212.146/tcp/41865"
+                        ],
+                        "height": 1132429
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "13daGGWvDQyTyHFDCPz8zDSVTWgPNNfJ4oh31Teec4TRWfjMx53",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "basic-goldenrod-donkey",
+                    "mode": "full",
+                    "location_hex": "881f2ed103fffff",
+                    "location": "8c1f2ed103a89ff",
+                    "last_poc_challenge": 1136582,
+                    "last_change_block": 1136582,
+                    "geocode": {
+                        "short_street": "Mor Botildas v\u00e4g",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "B\u00e5stad V",
+                        "long_street": "Mor Botildas v\u00e4g",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "B\u00e5stad V",
+                        "city_id": "YsOlc3RhZCB2c2vDpW5lIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 705202,
+                    "block": 1136983,
+                    "address": "112JdxpFRjubARRgkXw2ghkwaRy8JSTNiaQ7Lv12xfuBbBtLN3TM"
+                },
+                {
+                    "lng": 13.006740223703558,
+                    "lat": 57.72901438422663,
+                    "timestamp_added": "2021-02-03T08:31:10.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T22:26:53.825000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/p2p/11RMkL5f2Azgsyn4vjb6NBdYKEuJWpvoJ7dyrmscT4P25NqiLgu/p2p-circuit/p2p/112uMtzhUEfEV3z1SjuTSKLY1PXJY2tHhorFEPR2SeW9aCJgR2dM"
+                        ],
+                        "height": 1131186
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "13ENbEQPAvytjLnqavnbSAzurhGoCSNkGECMx7eHHDAfEaDirdY",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "gentle-concrete-swallow",
+                    "mode": "full",
+                    "location_hex": "8808b688edfffff",
+                    "location": "8c08b688ec091ff",
+                    "last_poc_challenge": 1126382,
+                    "last_change_block": 1126439,
+                    "geocode": {
+                        "short_street": "Aspgatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Br\u00e4mhult",
+                        "long_street": "Aspgatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Br\u00e4mhult",
+                        "city_id": "YnLDpG1odWx0dsOkc3RyYSBnw7Z0YWxhbmRzIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 703072,
+                    "block": 1136983,
+                    "address": "112uMtzhUEfEV3z1SjuTSKLY1PXJY2tHhorFEPR2SeW9aCJgR2dM"
+                },
+                {
+                    "lng": 18.048404972441542,
+                    "lat": 59.333290899978216,
+                    "timestamp_added": "2021-02-03T08:07:22.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T20:32:45.496000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/11Zdxb53i5Fmcsh6ER6ManBa9nqXpt5WpTVySCqdDfAMMMJ38UN/p2p-circuit/p2p/11PStLNAtj8K8urXQJ9E9LHg5bmZ1EeZMDLtoULXZXyeTyNnnTN"
+                        ],
+                        "height": 1135539
+                    },
+                    "reward_scale": 0.22998046875,
+                    "payer": "13ENbEQPAvytjLnqavnbSAzurhGoCSNkGECMx7eHHDAfEaDirdY",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "flat-taffy-squid",
+                    "mode": "full",
+                    "location_hex": "88088661ddfffff",
+                    "location": "8c088661dd8d5ff",
+                    "last_poc_challenge": 1136811,
+                    "last_change_block": 1136968,
+                    "geocode": {
+                        "short_street": "Pipersgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kungsholmen",
+                        "long_street": "Pipersgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kungsholmen",
+                        "city_id": "a3VuZ3Nob2xtZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 703056,
+                    "block": 1136983,
+                    "address": "11PStLNAtj8K8urXQJ9E9LHg5bmZ1EeZMDLtoULXZXyeTyNnnTN"
+                },
+                {
+                    "lng": 12.847885568490515,
+                    "lat": 55.40141004925323,
+                    "timestamp_added": "2021-02-02T16:36:16.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T15:02:15.996000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/83.233.121.134/tcp/37074"
+                        ],
+                        "height": 1135192
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "13ENbEQPAvytjLnqavnbSAzurhGoCSNkGECMx7eHHDAfEaDirdY",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 5,
+                    "name": "prehistoric-hazelnut-sheep",
+                    "mode": "full",
+                    "location_hex": "881f051535fffff",
+                    "location": "8c1f05153421dff",
+                    "last_poc_challenge": 1136893,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "Clemensagerv\u00e4gen",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Skan\u00f6r med Falsterbo",
+                        "long_street": "Clemensagerv\u00e4gen",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Skan\u00f6r med Falsterbo",
+                        "city_id": "c2thbsO2ciBtZWQgZmFsc3RlcmJvc2vDpW5lIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 702073,
+                    "block": 1136983,
+                    "address": "116NWT7jS45AsQScyMSsonV3WzsKF4ojkUvaXG6JdCW1wv1uPsd"
+                },
+                {
+                    "lng": 11.995930638441274,
+                    "lat": 57.6807554168605,
+                    "timestamp_added": "2021-02-01T21:09:27.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T00:41:34.060000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/89.160.37.84/tcp/27478"
+                        ],
+                        "height": 1129906
+                    },
+                    "reward_scale": 0.5450592041015625,
+                    "payer": "13ENbEQPAvytjLnqavnbSAzurhGoCSNkGECMx7eHHDAfEaDirdY",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "zesty-grey-chicken",
+                    "mode": "full",
+                    "location_hex": "881f250691fffff",
+                    "location": "8c1f25069010bff",
+                    "last_poc_challenge": 1136908,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "Falkenbergsgatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kroksl\u00e4tt",
+                        "long_street": "Falkenbergsgatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kroksl\u00e4tt",
+                        "city_id": "a3Jva3Nsw6R0dHbDpHN0cmEgZ8O2dGFsYW5kcyBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 700899,
+                    "block": 1136983,
+                    "address": "11u4XLetGNzvkDDe15F74kWzK8Y2eFac1c6bLBtQhkdQzM8RxYp"
+                },
+                {
+                    "lng": 18.02076680600407,
+                    "lat": 59.307598068966634,
+                    "timestamp_added": "2021-01-28T19:34:16.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-04T20:01:43.080000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/80.217.171.164/tcp/9289"
+                        ],
+                        "height": 1125330
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "13ENbEQPAvytjLnqavnbSAzurhGoCSNkGECMx7eHHDAfEaDirdY",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "blunt-strawberry-halibut",
+                    "mode": "full",
+                    "location_hex": "8808866111fffff",
+                    "location": "8c08866110069ff",
+                    "last_poc_challenge": 1136642,
+                    "last_change_block": 1136918,
+                    "geocode": {
+                        "short_street": "Nybohovsgr\u00e4nd",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "H\u00e4gersten-Liljeholmen",
+                        "long_street": "Nybohovsgr\u00e4nd",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "H\u00e4gersten-Liljeholmen",
+                        "city_id": "aMOkZ2Vyc3Rlbi1saWxqZWhvbG1lbnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 695768,
+                    "block": 1136983,
+                    "address": "112uF9G76ZKi583BHzrroqHp4aCWFH5PD1zPQPfPxBD62ZgaAFa2"
+                },
+                {
+                    "lng": 11.969925259451427,
+                    "lat": 57.699906211698156,
+                    "timestamp_added": "2021-01-26T14:02:01.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T10:47:31.066000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/188.149.57.121/tcp/22768"
+                        ],
+                        "height": 1136336
+                    },
+                    "reward_scale": 0.67083740234375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "damp-white-cricket",
+                    "mode": "full",
+                    "location_hex": "881f2506d9fffff",
+                    "location": "8c1f2506d8847ff",
+                    "last_poc_challenge": 1136722,
+                    "last_change_block": 1136979,
+                    "geocode": {
+                        "short_street": "Vasaplatsen",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Lorensberg",
+                        "long_street": "Vasaplatsen",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Lorensberg",
+                        "city_id": "bG9yZW5zYmVyZ3bDpHN0cmEgZ8O2dGFsYW5kcyBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 693055,
+                    "block": 1136983,
+                    "address": "112638Zq4es37K1jcEVVLUU52ak52mxbpD8f73pHF9KXeqLtA6Rj"
+                },
+                {
+                    "lng": 11.9594066834696,
+                    "lat": 57.701871869129114,
+                    "timestamp_added": "2021-01-26T14:00:47.000000Z",
+                    "status": {
+                        "timestamp": "2021-09-30T19:21:53.139000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/83.252.32.147/tcp/61289"
+                        ],
+                        "height": 1033652
+                    },
+                    "reward_scale": 0.615386962890625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "future-blue-bird",
+                    "mode": "full",
+                    "location_hex": "881f25a937fffff",
+                    "location": "8c1f25a936f41ff",
+                    "last_poc_challenge": 1033922,
+                    "last_change_block": 1033991,
+                    "geocode": {
+                        "short_street": "Arsenalsgatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Inom Vallgraven",
+                        "long_street": "Arsenalsgatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Inom Vallgraven",
+                        "city_id": "aW5vbSB2YWxsZ3JhdmVudsOkc3RyYSBnw7Z0YWxhbmRzIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 693054,
+                    "block": 1136983,
+                    "address": "112F1CApqkMeCJjEjyicv88GLAEB8cBWuwetAkyAbUZP7xKRwXxS"
+                },
+                {
+                    "lng": 18.05771396882979,
+                    "lat": 59.34939340868317,
+                    "timestamp_added": "2021-01-26T13:32:21.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T12:52:25.444000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/89.160.98.150/tcp/24963"
+                        ],
+                        "height": 1135081
+                    },
+                    "reward_scale": 0.1724853515625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "decent-eggplant-kitten",
+                    "mode": "full",
+                    "location_hex": "88088660e7fffff",
+                    "location": "8c088660e6b35ff",
+                    "last_poc_challenge": 1136934,
+                    "last_change_block": 1136960,
+                    "geocode": {
+                        "short_street": "Ingemarsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "Ingemarsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 693039,
+                    "block": 1136983,
+                    "address": "1125mrnTKH7mRduLx5hxfCZRCv3kRULA3NKZ7DYMu1RTBLT8E58k"
+                },
+                {
+                    "lng": 18.12399793716366,
+                    "lat": 59.39008205187551,
+                    "timestamp_added": "2021-01-26T13:21:51.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-06T04:54:35.336000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/158.174.197.99/tcp/52065"
+                        ],
+                        "height": 1127217
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "beautiful-berry-puma",
+                    "mode": "full",
+                    "location_hex": "880886656bfffff",
+                    "location": "8c0886656a9a5ff",
+                    "last_poc_challenge": 1136558,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "Krabbv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Sticklinge",
+                        "long_street": "Krabbv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Sticklinge",
+                        "city_id": "c3RpY2tsaW5nZXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 693030,
+                    "block": 1136983,
+                    "address": "11cpWzMkaUuDNtrU8VcjnfSxnMnut8yA2mGdJKH2gb8Rkz6DUHi"
+                },
+                {
+                    "lng": 17.907894993446778,
+                    "lat": 59.27732034012437,
+                    "timestamp_added": "2021-01-26T13:07:51.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-09T16:52:16.164000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/83.250.110.99/tcp/1646"
+                        ],
+                        "height": 1132451
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 4,
+                    "name": "glamorous-frost-buffalo",
+                    "mode": "full",
+                    "location_hex": "88088678d3fffff",
+                    "location": "8c088678d3a03ff",
+                    "last_poc_challenge": 1136755,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "\u00c4spholmsv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Sk\u00e4rholmen",
+                        "long_street": "\u00c4spholmsv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Sk\u00e4rholmen",
+                        "city_id": "c2vDpHJob2xtZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 693018,
+                    "block": 1136983,
+                    "address": "11dYCk8MDbLjvw5khoeGNmjDGbsU3rrSUdNytEy63A5yjhd1tBY"
+                },
+                {
+                    "lng": 11.970585620988837,
+                    "lat": 57.69568327540717,
+                    "timestamp_added": "2021-01-26T12:48:20.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T05:30:26.237000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/112D4HFTbz2j2k5yPqBz2jzwLEtexKkZjYuaksuvM4VBM1yefprK/p2p-circuit/p2p/1125VYaSdk8hdoHrLU1zSZg98pEdWiKC1aUveGr4xUnhoEE4kKf3"
+                        ],
+                        "height": 1132060
+                    },
+                    "reward_scale": 0.268341064453125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "bubbly-chiffon-mole",
+                    "mode": "full",
+                    "location_hex": "881f2506d1fffff",
+                    "location": "8c1f2506d184bff",
+                    "last_poc_challenge": 1136947,
+                    "last_change_block": 1136982,
+                    "geocode": {
+                        "short_street": "Erik Dahlbergsgatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Landala",
+                        "long_street": "Erik Dahlbergsgatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Landala",
+                        "city_id": "bGFuZGFsYXbDpHN0cmEgZ8O2dGFsYW5kcyBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 693002,
+                    "block": 1136983,
+                    "address": "1125VYaSdk8hdoHrLU1zSZg98pEdWiKC1aUveGr4xUnhoEE4kKf3"
+                },
+                {
+                    "lng": 18.0316743711336,
+                    "lat": 59.33969249380002,
+                    "timestamp_added": "2021-01-26T12:37:17.000000Z",
+                    "status": {
+                        "timestamp": "2021-10-21T04:37:22.514000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/98.128.194.16/tcp/64522"
+                        ],
+                        "height": 1061658
+                    },
+                    "reward_scale": 0.2017974853515625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "shambolic-silver-capybara",
+                    "mode": "full",
+                    "location_hex": "8808866037fffff",
+                    "location": "8c088660376c3ff",
+                    "last_poc_challenge": 1068277,
+                    "last_change_block": 1068300,
+                    "geocode": {
+                        "short_street": "Drejargatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "Drejargatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692993,
+                    "block": 1136983,
+                    "address": "11t3QP751t2spMhDqScNF2Mr13QcTpkCq2oUgnb72DpunGmNoVT"
+                },
+                {
+                    "lng": 18.066308190432476,
+                    "lat": 59.3401851058803,
+                    "timestamp_added": "2021-01-26T12:20:47.000000Z",
+                    "status": {
+                        "timestamp": "2021-11-12T05:54:03.809000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/2.248.87.164/tcp/44158"
+                        ],
+                        "height": 1095194
+                    },
+                    "reward_scale": 0.387969970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "urban-zinc-python",
+                    "mode": "full",
+                    "location_hex": "88088661d1fffff",
+                    "location": "8c088661d0eebff",
+                    "last_poc_challenge": 1095012,
+                    "last_change_block": 1095423,
+                    "geocode": {
+                        "short_street": "Birger Jarlsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "Birger Jarlsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692977,
+                    "block": 1136983,
+                    "address": "11z7V5iN2fm6yj96hvfgUm49VD3ZTq4RFw4MgWoW7C7vVnnEpP9"
+                },
+                {
+                    "lng": 18.11417756861301,
+                    "lat": 59.29234015042424,
+                    "timestamp_added": "2021-01-25T19:51:43.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-06T08:43:51.329000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/31.208.59.244/tcp/44158"
+                        ],
+                        "height": 1127425
+                    },
+                    "reward_scale": 0.254058837890625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "jovial-coffee-mole",
+                    "mode": "full",
+                    "location_hex": "8808866a9dfffff",
+                    "location": "8c08866a9c43dff",
+                    "last_poc_challenge": 1136050,
+                    "last_change_block": 1136372,
+                    "geocode": {
+                        "short_street": "Skan\u00f6rv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Bj\u00f6rkhagen",
+                        "long_street": "Skan\u00f6rv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Bj\u00f6rkhagen",
+                        "city_id": "YmrDtnJraGFnZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692094,
+                    "block": 1136983,
+                    "address": "11c2abZBau1FR5rVcondZbgpuTx6n2Fm7WtRctJePw2xJakWLuF"
+                },
+                {
+                    "lng": 18.113162851713142,
+                    "lat": 59.294591954093086,
+                    "timestamp_added": "2021-01-25T19:47:00.000000Z",
+                    "status": {
+                        "timestamp": "2021-10-09T03:31:44.921000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/94.137.96.31/tcp/35904"
+                        ],
+                        "height": 1046032
+                    },
+                    "reward_scale": 0.7886505126953125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "obedient-candy-alligator",
+                    "mode": "full",
+                    "location_hex": "8808866a99fffff",
+                    "location": "8c08866a98991ff",
+                    "last_poc_challenge": 1046624,
+                    "last_change_block": 1046768,
+                    "geocode": {
+                        "short_street": "Axvallsv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Bj\u00f6rkhagen",
+                        "long_street": "Axvallsv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Bj\u00f6rkhagen",
+                        "city_id": "YmrDtnJraGFnZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692090,
+                    "block": 1136983,
+                    "address": "11264nuMuht3NRJsZUqHKpFwR6ujNCrVRuNibgR5DCSknGMcvmGp"
+                },
+                {
+                    "lng": 18.03822270644765,
+                    "lat": 59.33622939269048,
+                    "timestamp_added": "2021-01-25T19:47:00.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T16:42:46.373000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/p2p/11EKKKzBhxZwtGcA4iWYf3ddRk3MjTCqYQdZJpYETUzcDHbWq77/p2p-circuit/p2p/11736G2EXU8a9XP2d5VX6bAV9ChzBKXojCBurLFfRX5tDpELdN2"
+                        ],
+                        "height": 1121714
+                    },
+                    "reward_scale": 0.1875457763671875,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "nutty-steel-sealion",
+                    "mode": "full",
+                    "location_hex": "8808866037fffff",
+                    "location": "8c088660361bdff",
+                    "last_poc_challenge": 1124226,
+                    "last_change_block": 1124388,
+                    "geocode": {
+                        "short_street": "Kungsholms strand",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kungsholmen",
+                        "long_street": "Kungsholms strand",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kungsholmen",
+                        "city_id": "a3VuZ3Nob2xtZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692090,
+                    "block": 1136983,
+                    "address": "11736G2EXU8a9XP2d5VX6bAV9ChzBKXojCBurLFfRX5tDpELdN2"
+                },
+                {
+                    "lng": 24.985452282498002,
+                    "lat": 60.34009047539507,
+                    "timestamp_added": "2021-01-25T19:45:40.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-09T04:40:30.444000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/87.92.6.122/tcp/44158"
+                        ],
+                        "height": 1131693
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "micro-carob-narwhal",
+                    "mode": "full",
+                    "location_hex": "881126d663fffff",
+                    "location": "8c1126d663421ff",
+                    "last_poc_challenge": 1136663,
+                    "last_change_block": 1136717,
+                    "geocode": {
+                        "short_street": "Artesaaninkuja",
+                        "short_state": "Uusimaa",
+                        "short_country": "FI",
+                        "short_city": "Tuusula",
+                        "long_street": "Artesaaninkuja",
+                        "long_state": "Uusimaa",
+                        "long_country": "Finland",
+                        "long_city": "Tuusula",
+                        "city_id": "dHV1c3VsYXV1c2ltYWFmaW5sYW5k"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692089,
+                    "block": 1136983,
+                    "address": "112wbwJB2y1xj8uzspSbjWqnrCuLUAAbT47srzUHij98hyrMipSz"
+                },
+                {
+                    "lng": 18.082112868854566,
+                    "lat": 59.31072547430716,
+                    "timestamp_added": "2021-01-25T19:07:26.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T18:41:27.262000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/188.151.142.43/tcp/22319"
+                        ],
+                        "height": 1131021
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "little-paisley-badger",
+                    "mode": "full",
+                    "location_hex": "88088661a9fffff",
+                    "location": "8c088661a9157ff",
+                    "last_poc_challenge": 1136827,
+                    "last_change_block": 1136918,
+                    "geocode": {
+                        "short_street": "S\u00f6dermannagatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "S\u00f6dermannagatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692079,
+                    "block": 1136983,
+                    "address": "11QX5LHJddQwqKf98UJGUsunNWAPCGhNTeiWBPnGNE1CN8RX7Pq"
+                },
+                {
+                    "lng": 18.068327009479038,
+                    "lat": 59.33755692955006,
+                    "timestamp_added": "2021-01-25T19:07:26.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-04T23:15:30.037000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/188.150.18.9/tcp/1892"
+                        ],
+                        "height": 1125525
+                    },
+                    "reward_scale": 0.3437957763671875,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "plain-ultraviolet-carp",
+                    "mode": "full",
+                    "location_hex": "88088661d7fffff",
+                    "location": "8c088661d7207ff",
+                    "last_poc_challenge": 1136930,
+                    "last_change_block": 1136958,
+                    "geocode": {
+                        "short_street": "David Bagares gata",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "David Bagares gata",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692079,
+                    "block": 1136983,
+                    "address": "11ZjFhuTnwbSs3pcvYwgg7tuAHx2n9NAW45yoQ1JCH958Ue8qgz"
+                },
+                {
+                    "lng": 11.944875659444616,
+                    "lat": 57.723241339386966,
+                    "timestamp_added": "2021-01-25T18:34:43.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T11:46:02.392000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/81.237.198.251/tcp/44166"
+                        ],
+                        "height": 1133617
+                    },
+                    "reward_scale": 0.628936767578125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "itchy-mandarin-tuna",
+                    "mode": "full",
+                    "location_hex": "881f25a903fffff",
+                    "location": "8c1f25a903a95ff",
+                    "last_poc_challenge": 1136938,
+                    "last_change_block": 1136964,
+                    "geocode": {
+                        "short_street": "Gustaf Dal\u00e9nsgatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kvilleb\u00e4cken",
+                        "long_street": "Gustaf Dal\u00e9nsgatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kvilleb\u00e4cken",
+                        "city_id": "a3ZpbGxlYsOkY2tlbnbDpHN0cmEgZ8O2dGFsYW5kcyBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692057,
+                    "block": 1136983,
+                    "address": "11CECCzSE4HRYiC1YZQmJDSuF31S8CXVtsB2dJPCEYaYvz2eFhW"
+                },
+                {
+                    "lng": 18.065176282390553,
+                    "lat": 59.342075391039664,
+                    "timestamp_added": "2021-01-25T18:16:45.000000Z",
+                    "status": {
+                        "timestamp": "2021-10-30T05:50:13.107000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/80.217.73.191/tcp/43865",
+                            "/p2p/112Q5pFVkKvGsEbi2nBxF1SadnmTk2Pq2EnETPaanuwFAhEzAtns/p2p-circuit/p2p/112EtxhuYmXrFCeAjVPWbxXvuhLoDKBkZVDYpfjRhUbNZ7yv2u1s"
+                        ],
+                        "height": 1076431
+                    },
+                    "reward_scale": 0.401092529296875,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "hot-malachite-hawk",
+                    "mode": "full",
+                    "location_hex": "88088661d1fffff",
+                    "location": "8c088661d04c5ff",
+                    "last_poc_challenge": 1076490,
+                    "last_change_block": 1076736,
+                    "geocode": {
+                        "short_street": "Birger Jarlsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "\u00d6stermalm",
+                        "long_street": "Birger Jarlsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "\u00d6stermalm",
+                        "city_id": "w7ZzdGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692047,
+                    "block": 1136983,
+                    "address": "112EtxhuYmXrFCeAjVPWbxXvuhLoDKBkZVDYpfjRhUbNZ7yv2u1s"
+                },
+                {
+                    "lng": 11.97379378156058,
+                    "lat": 57.70724837355404,
+                    "timestamp_added": "2021-01-25T18:07:16.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-06T20:29:32.019000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/83.252.26.214/tcp/42260"
+                        ],
+                        "height": 1127722
+                    },
+                    "reward_scale": 0.943389892578125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "tiny-pastel-fly",
+                    "mode": "full",
+                    "location_hex": "881f25a933fffff",
+                    "location": "8c1f25a932e87ff",
+                    "last_poc_challenge": 1136659,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "Stora Nygatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Inom Vallgraven",
+                        "long_street": "Stora Nygatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Inom Vallgraven",
+                        "city_id": "aW5vbSB2YWxsZ3JhdmVudsOkc3RyYSBnw7Z0YWxhbmRzIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692037,
+                    "block": 1136983,
+                    "address": "11cf4fM8FUFjXC5FiXtjZ2Z3HNy4icbpbTh1yQQmy7933DBzNoG"
+                },
+                {
+                    "lng": 11.940041280374057,
+                    "lat": 57.69871161580152,
+                    "timestamp_added": "2021-01-25T18:00:46.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-07T11:58:17.803000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/112JFCDpHtdeHfNLoErgkibXC75H4qLiHwSpfX4v7XKHPMxGD2XC/p2p-circuit/p2p/11vYy4UWwwuPkyF2inKtkbBbZhJXEDNJe3Z55aS1n8N4vSFJgQp"
+                        ],
+                        "height": 1129062
+                    },
+                    "reward_scale": 0.664459228515625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "quick-zinc-seagull",
+                    "mode": "full",
+                    "location_hex": "881f2506c9fffff",
+                    "location": "8c1f2506c85a9ff",
+                    "last_poc_challenge": 1136748,
+                    "last_change_block": 1136968,
+                    "geocode": {
+                        "short_street": "Masthuggsterrassen",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "G\u00f6teborg",
+                        "long_street": "Masthuggsterrassen",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "G\u00f6teborg",
+                        "city_id": "Z8O2dGVib3JndsOkc3RyYSBnw7Z0YWxhbmRzIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692030,
+                    "block": 1136983,
+                    "address": "11vYy4UWwwuPkyF2inKtkbBbZhJXEDNJe3Z55aS1n8N4vSFJgQp"
+                },
+                {
+                    "lng": 11.962348720075044,
+                    "lat": 57.695928078057555,
+                    "timestamp_added": "2021-01-25T17:55:54.000000Z",
+                    "status": {
+                        "timestamp": "2021-10-25T16:57:08.875000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/p2p/1128ANNh8JUwRRDX8sjyYZoQ5aVfc3ocDa212FtPvJBD4N8HAC7g/p2p-circuit/p2p/11eaKGXto9pofNv3D1Art2jQoHWZVCBHxSKR9WDtdNGxCST9rp9"
+                        ],
+                        "height": 1069906
+                    },
+                    "reward_scale": 0.548248291015625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "amateur-pineapple-swan",
+                    "mode": "full",
+                    "location_hex": "881f2506ddfffff",
+                    "location": "8c1f2506dc1e3ff",
+                    "last_poc_challenge": 1069826,
+                    "last_change_block": 1070032,
+                    "geocode": {
+                        "short_street": "V\u00e4stergatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Annedal",
+                        "long_street": "V\u00e4stergatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Annedal",
+                        "city_id": "YW5uZWRhbHbDpHN0cmEgZ8O2dGFsYW5kcyBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692025,
+                    "block": 1136983,
+                    "address": "11eaKGXto9pofNv3D1Art2jQoHWZVCBHxSKR9WDtdNGxCST9rp9"
+                },
+                {
+                    "lng": 13.026671538051916,
+                    "lat": 55.59010665925357,
+                    "timestamp_added": "2021-01-25T17:41:03.000000Z",
+                    "status": {
+                        "timestamp": "2021-11-06T02:39:05.927000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/85.228.192.9/tcp/11828"
+                        ],
+                        "height": 1085810
+                    },
+                    "reward_scale": 0.157867431640625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "stale-cream-crab",
+                    "mode": "full",
+                    "location_hex": "881f05b809fffff",
+                    "location": "8c1f05b80946bff",
+                    "last_poc_challenge": 1088015,
+                    "last_change_block": 1088771,
+                    "geocode": {
+                        "short_street": "Baskem\u00f6llegatan",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Annelund",
+                        "long_street": "Baskem\u00f6llegatan",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Annelund",
+                        "city_id": "YW5uZWx1bmRza8OlbmUgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 692008,
+                    "block": 1136983,
+                    "address": "112rPQ1597Sw3fQJZ5yWcDLpiN5oNegDHFMXRSWYWad3Jfgcpzr5"
+                },
+                {
+                    "lng": 18.029083994752384,
+                    "lat": 59.29655043216728,
+                    "timestamp_added": "2021-01-25T17:26:03.000000Z",
+                    "status": {
+                        "timestamp": "2021-08-07T04:05:50.104000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/p2p/112YjiLfzw7G4TLh5vSTvVDTdewDm8T9pLVnLoLQHAWsyKK5L587/p2p-circuit/p2p/11j9qnYeXsxPJSFz8YgaGwVGQnHLoyPSPhMFhwACJjHqQPECfGp"
+                        ],
+                        "height": 955512
+                    },
+                    "reward_scale": 0.4504547119140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "special-latte-halibut",
+                    "mode": "full",
+                    "location_hex": "8808866139fffff",
+                    "location": "8c08866138739ff",
+                    "last_poc_challenge": 955878,
+                    "last_change_block": 1019454,
+                    "geocode": {
+                        "short_street": "Partihandlarv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "long_street": "Partihandlarv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "city_id": "ZW5za2VkZS3DpXJzdGEtdmFudMO2cnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691990,
+                    "block": 1136983,
+                    "address": "11j9qnYeXsxPJSFz8YgaGwVGQnHLoyPSPhMFhwACJjHqQPECfGp"
+                },
+                {
+                    "lng": 18.07515147112048,
+                    "lat": 59.31511953067395,
+                    "timestamp_added": "2021-01-25T17:21:33.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T11:59:37.090000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/2.71.229.150/tcp/44158"
+                        ],
+                        "height": 1135026
+                    },
+                    "reward_scale": 0.1971282958984375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "kind-tiger-jaguar",
+                    "mode": "full",
+                    "location_hex": "88088661e3fffff",
+                    "location": "8c088661e273bff",
+                    "last_poc_challenge": 1136753,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "Bj\u00f6rns Tr\u00e4dg\u00e5rdsgr\u00e4nd",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Bj\u00f6rns Tr\u00e4dg\u00e5rdsgr\u00e4nd",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691985,
+                    "block": 1136983,
+                    "address": "112rSPMMjF8F5Gjsk7rmNWynNunDTYRrF8c8ZYsaAFhKNrdkWXKH"
+                },
+                {
+                    "lng": 18.04633470495535,
+                    "lat": 59.34152941208695,
+                    "timestamp_added": "2021-01-25T16:36:56.000000Z",
+                    "status": {
+                        "timestamp": "2021-11-28T11:13:35.612000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/94.137.124.187/tcp/43479"
+                        ],
+                        "height": 1116113
+                    },
+                    "reward_scale": 0.366363525390625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "acrobatic-mauve-octopus",
+                    "mode": "full",
+                    "location_hex": "88088661d9fffff",
+                    "location": "8c088661d8059ff",
+                    "last_poc_challenge": 1115781,
+                    "last_change_block": 1116147,
+                    "geocode": {
+                        "short_street": "Odengatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "Odengatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691977,
+                    "block": 1136983,
+                    "address": "112duWQkMhsmTdT7xaJ5SbFLX8E31mJmwaUhFBwQiEutJwhMqNcR"
+                },
+                {
+                    "lng": 17.653552407019465,
+                    "lat": 59.8490700543451,
+                    "timestamp_added": "2021-01-25T16:32:58.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T21:23:16.842000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/90.229.147.248/tcp/44158"
+                        ],
+                        "height": 1135575
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "spare-stone-boa",
+                    "mode": "full",
+                    "location_hex": "880880d981fffff",
+                    "location": "8c0880d9806a7ff",
+                    "last_poc_challenge": 1136659,
+                    "last_change_block": 1136970,
+                    "geocode": {
+                        "short_street": "S\u00e5gargatan",
+                        "short_state": "Uppsala l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kungs\u00e4ngen",
+                        "long_street": "S\u00e5gargatan",
+                        "long_state": "Uppsala l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kungs\u00e4ngen",
+                        "city_id": "a3VuZ3PDpG5nZW51cHBzYWxhIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691974,
+                    "block": 1136983,
+                    "address": "112nnbQ2JMZnaqm1xMj3GZ7EqiAu5sKkVWWJQULUPkGUXoaLJu43"
+                },
+                {
+                    "lng": 18.026897749344734,
+                    "lat": 59.32947645370077,
+                    "timestamp_added": "2021-01-25T16:17:40.000000Z",
+                    "status": {
+                        "timestamp": "2021-11-11T00:43:02.941000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/178.174.205.142/tcp/34635"
+                        ],
+                        "height": 1093454
+                    },
+                    "reward_scale": 0.291046142578125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "rural-infrared-parakeet",
+                    "mode": "full",
+                    "location_hex": "8808866035fffff",
+                    "location": "8c08866034867ff",
+                    "last_poc_challenge": 1093307,
+                    "last_change_block": 1093346,
+                    "geocode": {
+                        "short_street": "Norr M\u00e4larstrand",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kungsholmen",
+                        "long_street": "Norr M\u00e4larstrand",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kungsholmen",
+                        "city_id": "a3VuZ3Nob2xtZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691967,
+                    "block": 1136983,
+                    "address": "114yUH9h23H6pjMnewrLRNjL3aMPF188HR5RdUwJN3A97epVVBJ"
+                },
+                {
+                    "lng": 18.004692881073098,
+                    "lat": 59.32537537683004,
+                    "timestamp_added": "2021-01-25T13:53:04.000000Z",
+                    "status": {
+                        "timestamp": "2021-08-29T11:59:11.236000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/85.30.51.103/tcp/43690"
+                        ],
+                        "height": 987308
+                    },
+                    "reward_scale": 0.446868896484375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "short-saffron-pigeon",
+                    "mode": "full",
+                    "location_hex": "8808866021fffff",
+                    "location": "8c08866020413ff",
+                    "last_poc_challenge": 987317,
+                    "last_change_block": 1019454,
+                    "geocode": {
+                        "short_street": "Josefinav\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kungsholmen",
+                        "long_street": "Josefinav\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kungsholmen",
+                        "city_id": "a3VuZ3Nob2xtZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691829,
+                    "block": 1136983,
+                    "address": "112TSyNuHgyPAJXy1wr1GcDcnyEFHdWLDG9y3EzCMJyQkCADd6Jc"
+                },
+                {
+                    "lng": 12.985446659909123,
+                    "lat": 55.59098092136534,
+                    "timestamp_added": "2021-01-25T13:42:15.000000Z",
+                    "status": {
+                        "timestamp": "2021-10-06T14:27:14.084000Z",
+                        "online": "offline",
+                        "listen_addrs": [],
+                        "height": 1042437
+                    },
+                    "reward_scale": 0.617279052734375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "clumsy-coal-hornet",
+                    "mode": "full",
+                    "location_hex": "881f05bb13fffff",
+                    "location": "8c1f05bb12195ff",
+                    "last_poc_challenge": 1043372,
+                    "last_change_block": 1043480,
+                    "geocode": {
+                        "short_street": "Roskildev\u00e4gen",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kronoborg",
+                        "long_street": "Roskildev\u00e4gen",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kronoborg",
+                        "city_id": "a3Jvbm9ib3Jnc2vDpW5lIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691818,
+                    "block": 1136983,
+                    "address": "112w8btqbzgXx8DTjkMzaCVhh9TkgUMbzNgkwP9wrB7z17ZgJPF"
+                },
+                {
+                    "lng": 11.946923593550205,
+                    "lat": 57.699474268291176,
+                    "timestamp_added": "2021-01-25T13:35:22.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T00:55:24.347000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/188.148.199.128/tcp/1987"
+                        ],
+                        "height": 1134989
+                    },
+                    "reward_scale": 0.415283203125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "bouncy-cinnabar-swift",
+                    "mode": "full",
+                    "location_hex": "881f2506cbfffff",
+                    "location": "8c1f2506cb19bff",
+                    "last_poc_challenge": 1132429,
+                    "last_change_block": 1132484,
+                    "geocode": {
+                        "short_street": "F\u00f6rsta L\u00e5nggatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Olivedal",
+                        "long_street": "F\u00f6rsta L\u00e5nggatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Olivedal",
+                        "city_id": "b2xpdmVkYWx2w6RzdHJhIGfDtnRhbGFuZHMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691811,
+                    "block": 1136983,
+                    "address": "11qxqKMXKZd1RzsY54ki28XjCDKLjE4kp5EP4BWtwPZUUGnfNdv"
+                },
+                {
+                    "lng": 18.003895941712564,
+                    "lat": 59.32286286756509,
+                    "timestamp_added": "2021-01-25T13:29:28.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-07T16:53:54.127000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/83.227.82.230/tcp/44163"
+                        ],
+                        "height": 1129393
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "cheesy-saffron-robin",
+                    "mode": "full",
+                    "location_hex": "8808866021fffff",
+                    "location": "8c08866020193ff",
+                    "last_poc_challenge": 1136644,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "Primusgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kungsholmen",
+                        "long_street": "Primusgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kungsholmen",
+                        "city_id": "a3VuZ3Nob2xtZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691805,
+                    "block": 1136983,
+                    "address": "11DY3w3U9FmCgJaM4ZdB5Z2i9NU85EUUuWmuSsSqxF8wKtZbBzP"
+                },
+                {
+                    "lng": 11.949502667677796,
+                    "lat": 57.695203588066505,
+                    "timestamp_added": "2021-01-25T13:00:46.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T18:22:20.059000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/92.32.67.226/tcp/44170"
+                        ],
+                        "height": 1129896
+                    },
+                    "reward_scale": 0.2076416015625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "rhythmic-silver-ape",
+                    "mode": "full",
+                    "location_hex": "881f2506cbfffff",
+                    "location": "8c1f2506cad29ff",
+                    "last_poc_challenge": 1136891,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "\u00d6vre Djupedalsgatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Olivedal",
+                        "long_street": "\u00d6vre Djupedalsgatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Olivedal",
+                        "city_id": "b2xpdmVkYWx2w6RzdHJhIGfDtnRhbGFuZHMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691776,
+                    "block": 1136983,
+                    "address": "112KzPAiRt133tL6rMpuZNCmvzhvRmSDQXAtP3FZYxVYsyabCeBA"
+                },
+                {
+                    "lng": 13.029131180472485,
+                    "lat": 55.6049755451115,
+                    "timestamp_added": "2021-01-25T12:17:19.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T14:32:13.753000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/89.160.112.4/tcp/44158"
+                        ],
+                        "height": 1136519
+                    },
+                    "reward_scale": 0.3303070068359375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "happy-bone-dragon",
+                    "mode": "full",
+                    "location_hex": "881f05ba37fffff",
+                    "location": "8c1f05ba36f4bff",
+                    "last_poc_challenge": 1136966,
+                    "last_change_block": 1136966,
+                    "geocode": {
+                        "short_street": "Nobelv\u00e4gen",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "V\u00e4rnhem",
+                        "long_street": "Nobelv\u00e4gen",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "V\u00e4rnhem",
+                        "city_id": "dsOkcm5oZW1za8OlbmUgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691733,
+                    "block": 1136983,
+                    "address": "112eJuxgdS22LuCU2B53N1BWF7YnYHYiFJDEwvTGnc65EKEAgeZk"
+                },
+                {
+                    "lng": 11.957486690188876,
+                    "lat": 57.70242476037822,
+                    "timestamp_added": "2021-01-25T12:01:03.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T08:10:01.471000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/83.248.110.52/tcp/25946"
+                        ],
+                        "height": 1130373
+                    },
+                    "reward_scale": 0.4716949462890625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "digital-jade-pheasant",
+                    "mode": "full",
+                    "location_hex": "881f25a937fffff",
+                    "location": "8c1f25a93613dff",
+                    "last_poc_challenge": 1136621,
+                    "last_change_block": 1136971,
+                    "geocode": {
+                        "short_street": "Kungsgatan",
+                        "short_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Inom Vallgraven",
+                        "long_street": "Kungsgatan",
+                        "long_state": "V\u00e4stra G\u00f6talands l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Inom Vallgraven",
+                        "city_id": "aW5vbSB2YWxsZ3JhdmVudsOkc3RyYSBnw7Z0YWxhbmRzIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691717,
+                    "block": 1136983,
+                    "address": "11qQQA16CP8vZrPXL9PmmjdctGGhiFX8edVLHTBQvg5c5ZFDuXU"
+                },
+                {
+                    "lng": 18.13889062096935,
+                    "lat": 59.29821706143259,
+                    "timestamp_added": "2021-01-25T11:52:46.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T17:55:05.591000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/112mg2QNcaWQDbJn6iAXkcH2XvHRhZ45SN87NLkChNznhFQLSioE/p2p-circuit/p2p/112iqg8juSXRPW59akrWU2ciXv8m5hgSHrjFTxAY97jRcNiQNBV"
+                        ],
+                        "height": 1133997
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "gentle-carbon-starling",
+                    "mode": "full",
+                    "location_hex": "8808866a93fffff",
+                    "location": "8c08866a92897ff",
+                    "last_poc_challenge": 1136919,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "260",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Nacka",
+                        "long_street": "\u00c4ltav\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Nacka",
+                        "city_id": "bmFja2FzdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691709,
+                    "block": 1136983,
+                    "address": "112iqg8juSXRPW59akrWU2ciXv8m5hgSHrjFTxAY97jRcNiQNBV"
+                },
+                {
+                    "lng": 18.156527835283082,
+                    "lat": 59.34376889858414,
+                    "timestamp_added": "2021-01-25T11:35:16.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-06T22:04:42.957000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/1123SPsXbsfHSvseujaHzjZKMi2XDDSEcYu8yUbRrNConigNRdsQ/p2p-circuit/p2p/11vcMi46ppmZpbhaDH63CVjNzETnCeVPu9uYH4pyxnpBZocQDhV"
+                        ],
+                        "height": 1128222
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "expert-ultraviolet-huskie",
+                    "mode": "full",
+                    "location_hex": "8808866e63fffff",
+                    "location": "8c08866e6281dff",
+                    "last_poc_challenge": 1136875,
+                    "last_change_block": 1136968,
+                    "geocode": {
+                        "short_street": "Periskopv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Sk\u00e4rs\u00e4tra",
+                        "long_street": "Periskopv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Sk\u00e4rs\u00e4tra",
+                        "city_id": "c2vDpHJzw6R0cmFzdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 691694,
+                    "block": 1136983,
+                    "address": "11vcMi46ppmZpbhaDH63CVjNzETnCeVPu9uYH4pyxnpBZocQDhV"
+                },
+                {
+                    "lng": 18.065099510301625,
+                    "lat": 59.330627270341225,
+                    "timestamp_added": "2020-11-05T15:07:10.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T15:17:08.903000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/188.151.170.112/tcp/15506"
+                        ],
+                        "height": 1136564
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "cool-lilac-corgi",
+                    "mode": "full",
+                    "location_hex": "88088661d5fffff",
+                    "location": "8c088661d4a67ff",
+                    "last_poc_challenge": 1136883,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "Drottninggatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "Drottninggatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 575553,
+                    "block": 1136983,
+                    "address": "112kc96yvkrWjym6PpJJqzkansWUhhGmAoE3Pc66sUisDvVrwfiA"
+                },
+                {
+                    "lng": 18.06609436390147,
+                    "lat": 59.317417544127856,
+                    "timestamp_added": "2020-10-21T18:54:46.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T10:04:50.246000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/145.14.104.83/tcp/44158"
+                        ],
+                        "height": 1130497
+                    },
+                    "reward_scale": 0.1724853515625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "merry-eggplant-worm",
+                    "mode": "full",
+                    "location_hex": "880886618dfffff",
+                    "location": "8c0886618db1bff",
+                    "last_poc_challenge": 1136959,
+                    "last_change_block": 1136964,
+                    "geocode": {
+                        "short_street": "Bellmansgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Bellmansgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 552607,
+                    "block": 1136983,
+                    "address": "11G2s6iHa59Lfr1TSUdvR5ZDKyouWXn3FmWZAquAcPwmPQD33jy"
+                },
+                {
+                    "lng": 18.157014026856416,
+                    "lat": 59.29909126559229,
+                    "timestamp_added": "2020-10-21T18:25:25.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-06T21:39:37.651000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/46.59.98.160/tcp/44158"
+                        ],
+                        "height": 1128198
+                    },
+                    "reward_scale": 0.5091705322265625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 4,
+                    "name": "blunt-grape-seagull",
+                    "mode": "full",
+                    "location_hex": "8808866f6bfffff",
+                    "location": "8c08866f6b90bff",
+                    "last_poc_challenge": 1127909,
+                    "last_change_block": 1128364,
+                    "geocode": {
+                        "short_street": "Smedjev\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Nacka",
+                        "long_street": "Smedjev\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Nacka",
+                        "city_id": "bmFja2FzdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 552582,
+                    "block": 1136983,
+                    "address": "11EAZ1cCzcg2Re5NvitvXqh1Yt2SL7qBwYUQv4v4UEsdvDUZKEf"
+                },
+                {
+                    "lng": 18.119071256106007,
+                    "lat": 59.342794576336296,
+                    "timestamp_added": "2020-10-21T05:27:13.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T02:43:06.123000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/85.229.17.92/tcp/44159"
+                        ],
+                        "height": 1134488
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "stale-chiffon-caribou",
+                    "mode": "full",
+                    "location_hex": "8808866e69fffff",
+                    "location": "8c08866e69269ff",
+                    "last_poc_challenge": 1136776,
+                    "last_change_block": 1136819,
+                    "geocode": {
+                        "short_street": "Frihamnsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "\u00d6stermalm",
+                        "long_street": "Frihamnsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "\u00d6stermalm",
+                        "city_id": "w7ZzdGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 551778,
+                    "block": 1136983,
+                    "address": "11u7CmhyEjGiPaEWwg6v7BFhkA2C5Q7EAcCaK2Qz4RBJdtxbEHi"
+                },
+                {
+                    "lng": 17.990301293685828,
+                    "lat": 59.31502957451354,
+                    "timestamp_added": "2020-10-18T10:29:22.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-06T02:03:50.449000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/37.46.191.28/tcp/48248"
+                        ],
+                        "height": 1127043
+                    },
+                    "reward_scale": 0.3437957763671875,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "soft-syrup-dinosaur",
+                    "mode": "full",
+                    "location_hex": "880886602dfffff",
+                    "location": "8c0886602cb69ff",
+                    "last_poc_challenge": 1136980,
+                    "last_change_block": 1136980,
+                    "geocode": {
+                        "short_street": "Ekensbergsv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "H\u00e4gersten-Liljeholmen",
+                        "long_street": "Ekensbergsv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "H\u00e4gersten-Liljeholmen",
+                        "city_id": "aMOkZ2Vyc3Rlbi1saWxqZWhvbG1lbnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 547910,
+                    "block": 1136983,
+                    "address": "11aJY8kLK4ndLVzFdifYUuE7m27MqYCv69Fp8G7DqjbX7WAbk8L"
+                },
+                {
+                    "lng": 12.761740865011898,
+                    "lat": 56.321966514706396,
+                    "timestamp_added": "2020-10-08T15:04:59.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T04:23:29.671000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/11SN9rj7DGhaXKeUfR7NnM7ZqyUbDavzR8doYiYvGPoKJhxj4CL/p2p-circuit/p2p/115c6oTaMyDbMf5dQS2odSgJUHVe2EUZpfs4wAyurM1rpJWFnZM"
+                        ],
+                        "height": 1135949
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "sharp-leather-llama",
+                    "mode": "full",
+                    "location_hex": "881f2ed107fffff",
+                    "location": "8c1f2ed1064c9ff",
+                    "last_poc_challenge": 1136931,
+                    "last_change_block": 1136967,
+                    "geocode": {
+                        "short_street": "Pillas v\u00e4g",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "B\u00e5stad V",
+                        "long_street": "Pillas v\u00e4g",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "B\u00e5stad V",
+                        "city_id": "YsOlc3RhZCB2c2vDpW5lIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 535683,
+                    "block": 1136983,
+                    "address": "115c6oTaMyDbMf5dQS2odSgJUHVe2EUZpfs4wAyurM1rpJWFnZM"
+                },
+                {
+                    "lng": 18.05850595798466,
+                    "lat": 59.31279597047135,
+                    "timestamp_added": "2020-10-08T14:57:30.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T10:05:22.408000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/84.217.87.87/tcp/54446"
+                        ],
+                        "height": 1135008
+                    },
+                    "reward_scale": 0.2859649658203125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "hot-sky-gorilla",
+                    "mode": "full",
+                    "location_hex": "88088661ebfffff",
+                    "location": "8c088661eb9b9ff",
+                    "last_poc_challenge": 1132534,
+                    "last_change_block": 1132534,
+                    "geocode": {
+                        "short_street": "Fatburs Kvarngata",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Fatburs Kvarngata",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 535676,
+                    "block": 1136983,
+                    "address": "11mYfNFd8qaSqHWsjhPpJmXpDH597eBWZ9YF2FTAuidYenTFpB2"
+                },
+                {
+                    "lng": 18.075580947823454,
+                    "lat": 59.29213099225495,
+                    "timestamp_added": "2020-10-08T10:18:11.000000Z",
+                    "status": {
+                        "timestamp": "2021-11-30T00:41:33.180000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/112CGiyKwMsBVtC52TuZpHsok7X7ckTKtGAighEHHWXkgU8cqZce/p2p-circuit/p2p/115yY9ZfYrR2Rk8eH4P94xnFYgJxyma8wM47MpmqhBLdXXPeUCY"
+                        ],
+                        "height": 1118458
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "silly-denim-barbel",
+                    "mode": "full",
+                    "location_hex": "8808866addfffff",
+                    "location": "8c08866adc4bdff",
+                    "last_poc_challenge": 1136733,
+                    "last_change_block": 1136787,
+                    "geocode": {
+                        "short_street": "Livdjursgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "long_street": "Livdjursgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "city_id": "ZW5za2VkZS3DpXJzdGEtdmFudMO2cnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 535391,
+                    "block": 1136983,
+                    "address": "115yY9ZfYrR2Rk8eH4P94xnFYgJxyma8wM47MpmqhBLdXXPeUCY"
+                },
+                {
+                    "lng": 18.19270508280818,
+                    "lat": 59.343280715267994,
+                    "timestamp_added": "2020-10-08T10:14:23.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T17:14:16.478000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/80.216.68.17/tcp/31068"
+                        ],
+                        "height": 1133949
+                    },
+                    "reward_scale": 0.2535552978515625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "proud-chrome-albatross",
+                    "mode": "full",
+                    "location_hex": "8808866e27fffff",
+                    "location": "8c08866e276ddff",
+                    "last_poc_challenge": 1136636,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "S\u00f6dra Kungsv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Brevik",
+                        "long_street": "S\u00f6dra Kungsv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Brevik",
+                        "city_id": "YnJldmlrc3RvY2tob2xtcyBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 535387,
+                    "block": 1136983,
+                    "address": "11p2tMUW6k5j4ZS1N7JDe27WYV7tcKieuyxiBLC3gVyugij7DFg"
+                },
+                {
+                    "lng": 18.010145772938397,
+                    "lat": 59.3621455707568,
+                    "timestamp_added": "2020-10-08T10:01:03.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-01T20:31:34.668000Z",
+                        "online": "offline",
+                        "listen_addrs": [],
+                        "height": 1
+                    },
+                    "reward_scale": 0.4088134765625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "faint-sapphire-buffalo",
+                    "mode": "full",
+                    "location_hex": "88088660cdfffff",
+                    "location": "8c088660cca67ff",
+                    "last_poc_challenge": 1082497,
+                    "last_change_block": 1082830,
+                    "geocode": {
+                        "short_street": "Hagalundsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Hagalund",
+                        "long_street": "Hagalundsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Hagalund",
+                        "city_id": "aGFnYWx1bmRzdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 535373,
+                    "block": 1136983,
+                    "address": "112jvCzQSsVAUs3BFsRsqbZMYu7oQ1xPW4e7NRyJCLRYx7JXhWY"
+                },
+                {
+                    "lng": 18.040827440229506,
+                    "lat": 59.32742277039679,
+                    "timestamp_added": "2020-10-08T09:56:17.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T23:38:21.961000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/82.183.24.104/tcp/47604"
+                        ],
+                        "height": 1135696
+                    },
+                    "reward_scale": 0.261932373046875,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "curly-taupe-okapi",
+                    "mode": "full",
+                    "location_hex": "88088661cbfffff",
+                    "location": "8c088661cab33ff",
+                    "last_poc_challenge": 1136746,
+                    "last_change_block": 1136958,
+                    "geocode": {
+                        "short_street": "Kungsholmstorg",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Kungsholmen",
+                        "long_street": "Kungsholmstorg",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Kungsholmen",
+                        "city_id": "a3VuZ3Nob2xtZW5zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 535368,
+                    "block": 1136983,
+                    "address": "11ZUEbuTNj8xhGvus3TFpAHQywvJGqBfNjj93P2R34RsN1NBZJh"
+                },
+                {
+                    "lng": 17.998915520032273,
+                    "lat": 59.31615787277838,
+                    "timestamp_added": "2020-10-04T20:15:06.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T10:13:18.491000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/83.250.109.183/tcp/56120"
+                        ],
+                        "height": 1130508
+                    },
+                    "reward_scale": 0.3444976806640625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "flat-shadow-terrier",
+                    "mode": "full",
+                    "location_hex": "8808866025fffff",
+                    "location": "8c08866025039ff",
+                    "last_poc_challenge": 1136576,
+                    "last_change_block": 1136650,
+                    "geocode": {
+                        "short_street": "Bryggv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "H\u00e4gersten-Liljeholmen",
+                        "long_street": "Bryggv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "H\u00e4gersten-Liljeholmen",
+                        "city_id": "aMOkZ2Vyc3Rlbi1saWxqZWhvbG1lbnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 530014,
+                    "block": 1136983,
+                    "address": "112BY42Xy78mG2yX2uSLTM3RKVtGF3w7Lz7J272AKctkSqLaKuT3"
+                },
+                {
+                    "lng": 18.100122294153447,
+                    "lat": 59.355345208287055,
+                    "timestamp_added": "2020-10-04T20:09:26.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T17:21:08.439000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/84.216.143.103/tcp/44158"
+                        ],
+                        "height": 1133959
+                    },
+                    "reward_scale": 0.275970458984375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "gorgeous-neon-cat",
+                    "mode": "full",
+                    "location_hex": "88088660a7fffff",
+                    "location": "8c088660a65ddff",
+                    "last_poc_challenge": 1136899,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "Artemisgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "\u00d6stermalm",
+                        "long_street": "Artemisgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "\u00d6stermalm",
+                        "city_id": "w7ZzdGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 530008,
+                    "block": 1136983,
+                    "address": "117dAW6r1qUScJomGgg8RYzRoH1vcR66Py5qvNDBkC3ouSJT6G6"
+                },
+                {
+                    "lng": 18.08548171307734,
+                    "lat": 59.31489810659451,
+                    "timestamp_added": "2020-10-04T14:19:42.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T18:40:19.601000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/77.53.218.55/tcp/44158"
+                        ],
+                        "height": 1134036
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "zesty-steel-beaver",
+                    "mode": "full",
+                    "location_hex": "8808866185fffff",
+                    "location": "8c08866184b61ff",
+                    "last_poc_challenge": 1136612,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "Borgm\u00e4stargatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Borgm\u00e4stargatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 529640,
+                    "block": 1136983,
+                    "address": "112pHdduqUEgYyJcYC5Eo4p3hWHKWFKwNkpA5A1SsATo41Gd56eY"
+                },
+                {
+                    "lng": 18.03984895933156,
+                    "lat": 59.33813576938409,
+                    "timestamp_added": "2020-10-03T13:25:06.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-11T05:04:32.750000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/94.137.102.79/tcp/27610"
+                        ],
+                        "height": 1134600
+                    },
+                    "reward_scale": 0.22998046875,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "ancient-carob-kookaburra",
+                    "mode": "full",
+                    "location_hex": "8808866037fffff",
+                    "location": "8c088660365edff",
+                    "last_poc_challenge": 1136815,
+                    "last_change_block": 1136968,
+                    "geocode": {
+                        "short_street": "Atlasgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "Atlasgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 528091,
+                    "block": 1136983,
+                    "address": "112YSkmWMk42TYnwGqpRudJNj6w8tbZdfgjchgAgjGz9nrZGVhCE"
+                },
+                {
+                    "lng": 18.07484872052301,
+                    "lat": 59.32313284939263,
+                    "timestamp_added": "2020-10-03T13:20:26.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T03:34:01.781000Z",
+                        "online": "offline",
+                        "listen_addrs": [],
+                        "height": 1081478
+                    },
+                    "reward_scale": 0.407318115234375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "exotic-lime-gibbon",
+                    "mode": "full",
+                    "location_hex": "880886618dfffff",
+                    "location": "8c0886618c499ff",
+                    "last_poc_challenge": 1083023,
+                    "last_change_block": 1083066,
+                    "geocode": {
+                        "short_street": "Skeppsbron",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Skeppsbron",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 528086,
+                    "block": 1136983,
+                    "address": "112K11ZDgWnareSDKUxFCA69cfyYvXqSMjnuqdSvdfZu889D52Te"
+                },
+                {
+                    "lng": 12.828440896775414,
+                    "lat": 55.41596385056777,
+                    "timestamp_added": "2020-10-03T12:57:52.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-02T01:15:21.209000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/p2p/112Pce24JQzYsxys2wDzprv1iiVCSHR5yGUegyqZQ22ZreiwXgNC/p2p-circuit/p2p/11XP5mZBcXbgofrGzVXx7JwAfK1wh3XoJudQVW82FSSxmuzXf4j"
+                        ],
+                        "height": 1121275
+                    },
+                    "reward_scale": 1.0,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "dandy-maroon-moose",
+                    "mode": "full",
+                    "location_hex": "881f051505fffff",
+                    "location": "8c1f05150405bff",
+                    "last_poc_challenge": 1121266,
+                    "last_change_block": 1121328,
+                    "geocode": {
+                        "short_street": "Hamnv\u00e4gen",
+                        "short_state": "Sk\u00e5ne l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Vellinge S",
+                        "long_street": "Hamnv\u00e4gen",
+                        "long_state": "Sk\u00e5ne l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Vellinge S",
+                        "city_id": "dmVsbGluZ2Ugc3Nrw6VuZSBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 528062,
+                    "block": 1136983,
+                    "address": "11XP5mZBcXbgofrGzVXx7JwAfK1wh3XoJudQVW82FSSxmuzXf4j"
+                },
+                {
+                    "lng": 18.036707397815174,
+                    "lat": 59.341406716734866,
+                    "timestamp_added": "2020-10-03T12:48:30.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T17:33:59.566000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/85.230.102.204/tcp/43015"
+                        ],
+                        "height": 1133972
+                    },
+                    "reward_scale": 0.114990234375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "short-opaque-skunk",
+                    "mode": "full",
+                    "location_hex": "8808866033fffff",
+                    "location": "8c088660328ebff",
+                    "last_poc_challenge": 1136788,
+                    "last_change_block": 1136951,
+                    "geocode": {
+                        "short_street": "Tomtebogatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Norrmalm",
+                        "long_street": "Tomtebogatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Norrmalm",
+                        "city_id": "bm9ycm1hbG1zdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 528052,
+                    "block": 1136983,
+                    "address": "112hUHXPUZ4wLWdzQm4LVPpYRtNu5wCofJ7p7SNVqoyEhAYrD1ea"
+                },
+                {
+                    "lng": 18.045933596015622,
+                    "lat": 59.30146809871927,
+                    "timestamp_added": "2020-10-02T10:52:41.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-09T14:02:07.784000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/31.211.206.28/tcp/54520"
+                        ],
+                        "height": 1132289
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "faithful-cornflower-millipede",
+                    "mode": "full",
+                    "location_hex": "88088661edfffff",
+                    "location": "8c088661edb1dff",
+                    "last_poc_challenge": 1136975,
+                    "last_change_block": 1136975,
+                    "geocode": {
+                        "short_street": "Ottsj\u00f6v\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "long_street": "Ottsj\u00f6v\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "city_id": "ZW5za2VkZS3DpXJzdGEtdmFudMO2cnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 526411,
+                    "block": 1136983,
+                    "address": "112AU6cecHxwFZQfELzwGPjrCpvnsJ9JAohvAdukTebznmNiq56Y"
+                },
+                {
+                    "lng": 18.014928374839737,
+                    "lat": 59.31682627607374,
+                    "timestamp_added": "2020-10-02T10:42:21.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-05T09:19:41.253000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/11sx9uzriAwFrMMJkkWcNVQnHD4XcRZkTbyAKvGKdhAHKBvokHA/p2p-circuit/p2p/1126a3nn3Hcx9tjY5a44foQZ7YPDAQEb8wjQzAgkDLDsBbQYV4iQ"
+                        ],
+                        "height": 1126115
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "ripe-opaque-manatee",
+                    "mode": "full",
+                    "location_hex": "880886611bfffff",
+                    "location": "8c0886611b459ff",
+                    "last_poc_challenge": 1136746,
+                    "last_change_block": 1136958,
+                    "geocode": {
+                        "short_street": "Gr\u00f6ndalshamnen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "H\u00e4gersten-Liljeholmen",
+                        "long_street": "Gr\u00f6ndalshamnen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "H\u00e4gersten-Liljeholmen",
+                        "city_id": "aMOkZ2Vyc3Rlbi1saWxqZWhvbG1lbnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 526400,
+                    "block": 1136983,
+                    "address": "1126a3nn3Hcx9tjY5a44foQZ7YPDAQEb8wjQzAgkDLDsBbQYV4iQ"
+                },
+                {
+                    "lng": 18.134733963832247,
+                    "lat": 59.33689371506331,
+                    "timestamp_added": "2020-10-02T10:32:05.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T21:38:00.771000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/2.70.63.149/tcp/44158"
+                        ],
+                        "height": 1136938
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "small-leather-nuthatch",
+                    "mode": "full",
+                    "location_hex": "8808866e6dfffff",
+                    "location": "8c08866e6ce39ff",
+                    "last_poc_challenge": 1136700,
+                    "last_change_block": 1136956,
+                    "geocode": {
+                        "short_street": "Lindar\u00e4ngsv\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "\u00d6stermalm",
+                        "long_street": "Lindar\u00e4ngsv\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "\u00d6stermalm",
+                        "city_id": "w7ZzdGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 526389,
+                    "block": 1136983,
+                    "address": "112ZdtYTRoSQrXm3XthtUqQMP7BfmMzpMncKdUZxGxkPLJYCWrfg"
+                },
+                {
+                    "lng": 18.0816833096423,
+                    "lat": 59.3410538806166,
+                    "timestamp_added": "2020-10-02T10:27:25.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-08T21:47:49.200000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/p2p/115JMnhecLBgQESSy2MarG2CQm2QD8do8Szi1P2gp8QDNW3RdBP/p2p-circuit/p2p/11YHVfyR2ssJF5VAQzTZtMfXWHSGdk29P7HN267NP3Tno24ESt5"
+                        ],
+                        "height": 1131225
+                    },
+                    "reward_scale": 0.1813507080078125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "plain-fuchsia-alligator",
+                    "mode": "full",
+                    "location_hex": "8808866199fffff",
+                    "location": "8c08866199109ff",
+                    "last_poc_challenge": 1131518,
+                    "last_change_block": 1131694,
+                    "geocode": {
+                        "short_street": "\u00d6stermalmsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "\u00d6stermalm",
+                        "long_street": "\u00d6stermalmsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "\u00d6stermalm",
+                        "city_id": "w7ZzdGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 526384,
+                    "block": 1136983,
+                    "address": "11YHVfyR2ssJF5VAQzTZtMfXWHSGdk29P7HN267NP3Tno24ESt5"
+                },
+                {
+                    "lng": 18.01366157336075,
+                    "lat": 59.375130881965816,
+                    "timestamp_added": "2020-10-02T07:06:56.000000Z",
+                    "status": {
+                        "timestamp": "2021-11-15T12:01:24.156000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/84.216.45.169/tcp/6600"
+                        ],
+                        "height": 1082231
+                    },
+                    "reward_scale": 0.412750244140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "special-sangria-scallop",
+                    "mode": "full",
+                    "location_hex": "88088660cbfffff",
+                    "location": "8c088660cb1c3ff",
+                    "last_poc_challenge": 1082050,
+                    "last_change_block": 1082192,
+                    "geocode": {
+                        "short_street": "Gustav III:s Boulevard",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "J\u00e4rva",
+                        "long_street": "Gustav III:s Boulevard",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "J\u00e4rva",
+                        "city_id": "asOkcnZhc3RvY2tob2xtcyBsw6Ruc3dlZGVu"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 526180,
+                    "block": 1136983,
+                    "address": "11tkCkFNuxvLCoSPd6e8ogiydyYtB9W77Tc7VV2Ns4L8c4goN4U"
+                },
+                {
+                    "lng": 18.12744235476832,
+                    "lat": 59.307065848291266,
+                    "timestamp_added": "2020-10-02T06:20:03.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-09T15:08:46.590000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/213.114.132.126/tcp/44158"
+                        ],
+                        "height": 1132352
+                    },
+                    "reward_scale": 0.2535552978515625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "perfect-infrared-python",
+                    "mode": "full",
+                    "location_hex": "8808866f4dfffff",
+                    "location": "8c08866f4d541ff",
+                    "last_poc_challenge": 1136980,
+                    "last_change_block": 1136980,
+                    "geocode": {
+                        "short_street": "Nacka",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Nacka",
+                        "long_street": "Nacka",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Nacka",
+                        "city_id": "bmFja2FzdG9ja2hvbG1zIGzDpG5zd2VkZW4"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 526131,
+                    "block": 1136983,
+                    "address": "11Z59mkCnWfsyBogBv3zF2rEKNhP4bQd2xiNQSxw1TdkgoXtG8T"
+                },
+                {
+                    "lng": 18.07908444353679,
+                    "lat": 59.314982178254496,
+                    "timestamp_added": "2020-10-01T21:44:44.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T12:18:12.795000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/p2p/11LhpKY7RYU7NtGXg2u1FBXx6RQWo83bujMBxJaMyTJ4MQ5PiER/p2p-circuit/p2p/112b1zjrd1U8d9VZJVkvjrmsUytihZmvftbVpF5R8SSffA4vY1zQ"
+                        ],
+                        "height": 1135371
+                    },
+                    "reward_scale": 0.342864990234375,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "short-mulberry-mallard",
+                    "mode": "full",
+                    "location_hex": "8808866185fffff",
+                    "location": "8c08866185b4dff",
+                    "last_poc_challenge": 1130511,
+                    "last_change_block": 1131032,
+                    "geocode": {
+                        "short_street": "Folkungagatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Folkungagatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 525586,
+                    "block": 1136983,
+                    "address": "112b1zjrd1U8d9VZJVkvjrmsUytihZmvftbVpF5R8SSffA4vY1zQ"
+                },
+                {
+                    "lng": 18.066608083372014,
+                    "lat": 59.27833669197787,
+                    "timestamp_added": "2020-10-01T18:47:42.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-12T00:14:22.331000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/188.150.82.243/tcp/44940"
+                        ],
+                        "height": 1135728
+                    },
+                    "reward_scale": 0.5070953369140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "eager-spruce-fish",
+                    "mode": "full",
+                    "location_hex": "8808866ac1fffff",
+                    "location": "8c08866ac0c49ff",
+                    "last_poc_challenge": 1136886,
+                    "last_change_block": 1136918,
+                    "geocode": {
+                        "short_street": "Tussm\u00f6tev\u00e4gen",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "long_street": "Tussm\u00f6tev\u00e4gen",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "city_id": "ZW5za2VkZS3DpXJzdGEtdmFudMO2cnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 525397,
+                    "block": 1136983,
+                    "address": "112FW1t5xgnGUNZiR2ugvRWbaWgCKfgAVdguNvYGe12amubPX93Q"
+                },
+                {
+                    "lng": 18.029490694805062,
+                    "lat": 59.31581207768786,
+                    "timestamp_added": "2020-10-01T18:33:42.000000Z",
+                    "status": {
+                        "timestamp": "2021-12-10T04:36:50.962000Z",
+                        "online": "online",
+                        "listen_addrs": [
+                            "/ip4/188.151.162.112/tcp/18482"
+                        ],
+                        "height": 1133164
+                    },
+                    "reward_scale": 0.344970703125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "deep-orchid-loris",
+                    "mode": "full",
+                    "location_hex": "8808866113fffff",
+                    "location": "8c088661136d7ff",
+                    "last_poc_challenge": 1136795,
+                    "last_change_block": 1136918,
+                    "geocode": {
+                        "short_street": "Bergsundsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Bergsundsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 525382,
+                    "block": 1136983,
+                    "address": "112VsGkL4RaHn5cN7wwctxpJZsGAnBaxgxbncRqFuiKvwFyfJDys"
+                },
+                {
+                    "lng": 18.07454279788243,
+                    "lat": 59.317690634870175,
+                    "timestamp_added": "2020-10-01T18:05:55.000000Z",
+                    "status": {
+                        "timestamp": "2021-10-09T14:14:43.517000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/p2p/11oRVhetLgnckr3Ejp6KixrtqvH3MVLFrajGAyaX3UzzYCnJnWo/p2p-circuit/p2p/11MvnyEAQ9rApwQVrJX4nEW8WHZ4CmjFcdZeoqQicyDvHHz96gp"
+                        ],
+                        "height": 978933
+                    },
+                    "reward_scale": 0.3619842529296875,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "sleepy-mahogany-alligator",
+                    "mode": "full",
+                    "location_hex": "880886618dfffff",
+                    "location": "8c0886618c9ddff",
+                    "last_poc_challenge": 978735,
+                    "last_change_block": 1019454,
+                    "geocode": {
+                        "short_street": "Svartensgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Svartensgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 525357,
+                    "block": 1136983,
+                    "address": "11MvnyEAQ9rApwQVrJX4nEW8WHZ4CmjFcdZeoqQicyDvHHz96gp"
+                },
+                {
+                    "lng": 17.991039558677276,
+                    "lat": 59.29998332282175,
+                    "timestamp_added": "2020-10-01T17:27:33.000000Z",
+                    "status": {
+                        "timestamp": "2021-06-15T12:36:02.474000Z",
+                        "online": "offline",
+                        "listen_addrs": null,
+                        "height": 883689
+                    },
+                    "reward_scale": 0.621124267578125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 3,
+                    "name": "large-fuzzy-porcupine",
+                    "mode": "full",
+                    "location_hex": "8808866155fffff",
+                    "location": "8c08866154d17ff",
+                    "last_poc_challenge": 883524,
+                    "last_change_block": 1019454,
+                    "geocode": {
+                        "short_street": "Huvudfabriksgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "H\u00e4gersten-Liljeholmen",
+                        "long_street": "Huvudfabriksgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "H\u00e4gersten-Liljeholmen",
+                        "city_id": "aMOkZ2Vyc3Rlbi1saWxqZWhvbG1lbnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 525316,
+                    "block": 1136983,
+                    "address": "116ThE1uzSfDjyB7wvUdpSWKitHm1hL4PAYHESyc1EX35FsV9CY"
+                },
+                {
+                    "lng": 18.060568497158055,
+                    "lat": 59.28498250465877,
+                    "timestamp_added": "2020-09-22T19:44:07.000000Z",
+                    "status": {
+                        "timestamp": "2021-09-11T11:51:16.156000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/13.48.149.139/tcp/44158"
+                        ],
+                        "height": 1006404
+                    },
+                    "reward_scale": 0.905792236328125,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 2,
+                    "name": "bubbly-parchment-moth",
+                    "mode": "full",
+                    "location_hex": "8808866acbfffff",
+                    "location": "8c08866aca0e7ff",
+                    "last_poc_challenge": 1006309,
+                    "last_change_block": 1019454,
+                    "geocode": {
+                        "short_street": "Stralsundsgatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "long_street": "Stralsundsgatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "Enskede-\u00c5rsta-Vant\u00f6r",
+                        "city_id": "ZW5za2VkZS3DpXJzdGEtdmFudMO2cnN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 511699,
+                    "block": 1136983,
+                    "address": "11esYQNdEwYzVZ1K5DW4ZjyFiyd4UMub1ppsSFFr1iE3JVErtDx"
+                },
+                {
+                    "lng": 18.067513433610188,
+                    "lat": 59.30938308444975,
+                    "timestamp_added": "2020-08-31T12:22:36.000000Z",
+                    "status": {
+                        "timestamp": "2021-08-12T05:00:01.992000Z",
+                        "online": "offline",
+                        "listen_addrs": [
+                            "/ip4/84.216.109.60/tcp/44158"
+                        ],
+                        "height": 961574
+                    },
+                    "reward_scale": 0.4504547119140625,
+                    "payer": "14fzfjFcHpDR1rTH8BNPvSi5dKBbgxaDnmsVPbCjuq9ENjpZbxh",
+                    "owner": "14Rqw67Er4T4mDitRR5hkvDbefXUhVQGiaVV4yzgSF3sVtu6PfU",
+                    "nonce": 1,
+                    "name": "itchy-merlot-porcupine",
+                    "mode": "full",
+                    "location_hex": "88088661e1fffff",
+                    "location": "8c088661e0ea5ff",
+                    "last_poc_challenge": 961484,
+                    "last_change_block": 1019454,
+                    "geocode": {
+                        "short_street": "Blekingegatan",
+                        "short_state": "Stockholms l\u00e4n",
+                        "short_country": "SE",
+                        "short_city": "S\u00f6dermalm",
+                        "long_street": "Blekingegatan",
+                        "long_state": "Stockholms l\u00e4n",
+                        "long_country": "Sweden",
+                        "long_city": "S\u00f6dermalm",
+                        "city_id": "c8O2ZGVybWFsbXN0b2NraG9sbXMgbMOkbnN3ZWRlbg"
+                    },
+                    "gain": 12,
+                    "elevation": 0,
+                    "block_added": 475464,
+                    "block": 1136983,
+                    "address": "117wx42YduUdgW191EP3GBpsPVwXki8ZumhuYK2GDYARNh3kJV6"
+                }
+            ]
+        },
+        "emitted_at": 1639347579126
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "documentationUrl": "https://docsurl.com",
+  "connectionSpecification": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Helium Account Hotspots Spec",
+    "type": "object",
+    "required": ["start_date", "account_id"],
+    "additionalProperties": false,
+    "properties": {
+      "start_date" :  {
+        "type" : "string",
+        "description": "Pagination until this date comes up",
+        "pattern" : "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+        "examples" : ["%Y-%m-%d"]
+      },
+      "account_id" : {
+        "type" : "string",
+        "description" : "Account B58 address to fetch details for",
+        "examples" : ["1182nyT3oXZPMztMSww4mzaaQXGXd5T7JwDfEth6obSCwwxxfsB"]
+      }
+    }
+  }
+}
