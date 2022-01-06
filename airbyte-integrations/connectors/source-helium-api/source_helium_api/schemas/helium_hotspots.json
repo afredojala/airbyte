@@ -2,119 +2,117 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
     "properties": {
-        "data": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "lng": {
-                        "type": "number"
-                    },
-                    "lat": {
-                        "type": "number"
-                    },
-                    "timestamp_added": {
-                        "type": "string"
-                    },
-                    "status": {
-                        "type": "object",
-                        "properties": {
-                            "timestamp": {
-                                "type": "string"
-                            },
-                            "online": {
-                                "type": "string"
-                            },
-                            "listen_addrs": {
-                                "type": "array",
-                                "items": {
-                                    "type": "string"
-                                }
-                            },
-                            "height": {
-                                "type": "integer"
-                            }
-                        }
-                    },
-                    "reward_scale": {
-                        "type": "number"
-                    },
-                    "payer": {
-                        "type": "string"
-                    },
-                    "owner": {
-                        "type": "string"
-                    },
-                    "nonce": {
-                        "type": "integer"
-                    },
-                    "name": {
-                        "type": "string"
-                    },
-                    "mode": {
-                        "type": "string"
-                    },
-                    "location_hex": {
-                        "type": "string"
-                    },
-                    "location": {
-                        "type": "string"
-                    },
-                    "last_poc_challenge": {
-                        "type": "integer"
-                    },
-                    "last_change_block": {
-                        "type": "integer"
-                    },
-                    "geocode": {
-                        "type": "object",
-                        "properties": {
-                            "short_street": {
-                                "type": "string"
-                            },
-                            "short_state": {
-                                "type": "string"
-                            },
-                            "short_country": {
-                                "type": "string"
-                            },
-                            "short_city": {
-                                "type": "string"
-                            },
-                            "long_street": {
-                                "type": "string"
-                            },
-                            "long_state": {
-                                "type": "string"
-                            },
-                            "long_country": {
-                                "type": "string"
-                            },
-                            "long_city": {
-                                "type": "string"
-                            },
-                            "city_id": {
-                                "type": "string"
-                            }
-                        }
-                    },
-                    "gain": {
-                        "type": "integer"
-                    },
-                    "elevation": {
-                        "type": "integer"
-                    },
-                    "block_added": {
-                        "type": "integer"
-                    },
-                    "block": {
-                        "type": "integer"
-                    },
-                    "address": {
+        "lng": {
+            "type": [
+                "number",
+                "null"
+            ]
+        },
+        "lat": {
+            "type": [
+                "number",
+                "null"
+            ]
+        },
+        "timestamp_added": {
+            "type": "string"
+        },
+        "status": {
+            "type": "object",
+            "properties": {
+                "timestamp": {
+                    "type": "string"
+                },
+                "online": {
+                    "type": "string"
+                },
+                "listen_addrs": {
+                    "type": "array",
+                    "items": {
                         "type": "string"
                     }
+                },
+                "height": {
+                    "type": "integer"
                 }
             }
+        },
+        "reward_scale": {
+            "type": "number"
+        },
+        "payer": {
+            "type": "string"
+        },
+        "owner": {
+            "type": "string"
+        },
+        "nonce": {
+            "type": "integer"
+        },
+        "name": {
+            "type": "string"
+        },
+        "mode": {
+            "type": "string"
+        },
+        "location_hex": {
+            "type": "string"
+        },
+        "location": {
+            "type": "string"
+        },
+        "last_poc_challenge": {
+            "type": "integer"
+        },
+        "last_change_block": {
+            "type": "integer"
+        },
+        "geocode": {
+            "type": "object",
+            "properties": {
+                "short_street": {
+                    "type": "string"
+                },
+                "short_state": {
+                    "type": "string"
+                },
+                "short_country": {
+                    "type": "string"
+                },
+                "short_city": {
+                    "type": "string"
+                },
+                "long_street": {
+                    "type": "string"
+                },
+                "long_state": {
+                    "type": "string"
+                },
+                "long_country": {
+                    "type": "string"
+                },
+                "long_city": {
+                    "type": "string"
+                },
+                "city_id": {
+                    "type": "string"
+                }
+            }
+        },
+        "gain": {
+            "type": "integer"
+        },
+        "elevation": {
+            "type": "integer"
+        },
+        "block_added": {
+            "type": "integer"
+        },
+        "block": {
+            "type": "integer"
+        },
+        "address": {
+            "type": "string"
         }
     }
 }

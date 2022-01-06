@@ -16,8 +16,9 @@ from airbyte_cdk.sources.streams.http.auth import NoAuth
 
 class HeliumHotspots(HttpStream):
     url_base = "https://api.helium.io/v1/"
-    cursor_field = "cursor"
+    cursor_field = "timestamp_added"
     primary_key  = None
+    data_field = "data"
 
     def __init__(self, date: str, **kwargs) -> None:
         super().__init__()
@@ -56,41 +57,10 @@ class HeliumHotspots(HttpStream):
         stream_state: Mapping[str, Any] = None,
         stream_slice: Mapping[str, Any] = None,
         next_page_token: Mapping[str, Any] = None,
-    ) -> Iterable[Mapping]:
-        return [response.json()]
+    ) -> Iterable[MutableMapping]:
+        json_response = response.json()
+        yield from json_response.get(self.data_field, [])
 
-    # def get_updated_state(
-    #     self, current_stream_state: MutableMapping[str, Any], latest_record: Mapping[str, Any]
-    # )  -> Mapping[str, Any]:
-    #     if current_stream_state is not None and 'date' in current_stream_state:
-    #         dates = [datetime.strptime(current_stream_state["date"],"%Y-%m-%dT%H:%M:%S")]
-    #         for d in latest_record["data"]:
-    #             d_test = datetime.strptime(d["timestamp_added"].split(".")[0],"%Y-%m-%dT%H:%M:%S")
-    #             print(d_test)
-    #             dates.append(d_test)
-
-    #         return {"date" : min(dates)}
-    #     else:
-    #         return {"date" : self.date.strftime("%Y-%m-%dT%H:%M:%S")}
-
-    # def _chunk_date_range(self, date: datetime) -> List[Mapping[str, any]]:
-    #     """
-    #     Returns a list of each day between the start date and now.
-    #     The return value is a list of dicts {'date': date_string}.
-    #     """
-    #     dates = []
-    #     while date < datetime.now():
-    #         dates.append({'date': date.strftime('%Y-%m-%dT%H:%M:%S')})
-    #         date += timedelta(days=1)
-    #     return dates
-
-    # def stream_slices(self, sync_mode, cursor_field: List[str] = None, stream_state: Mapping[str, Any] = None) -> Iterable[
-    #     Optional[Mapping[str, any]]]:
-    #     date = datetime.strptime(stream_state['date'], '%Y-%m-%dT%H:%M:%S') if stream_state and 'date' in stream_state else self.date
-    #     return self._chunk_date_range(date)
-
-
-# Source
 class SourceHeliumApi(AbstractSource):
     def check_connection(self, logger, config) -> Tuple[bool, any]:
         return True, None
