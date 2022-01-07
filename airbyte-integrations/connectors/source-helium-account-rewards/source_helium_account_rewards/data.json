@@ -1,0 +1,35 @@
+{
+    "gain": 12,
+    "mode": "full",
+    "name": "magic-wintergreen-turkey",
+    "block": 1167312,
+    "nonce": 0,
+    "owner": "13cAyippktw5FYTCjrR7mpY2ddBzxLjm4FcZwNMRF3DW8UprpiV",
+    "payer": "13MS2kZHU4h6wp3tExgoHdDFjBsb9HB9JBvcbK9XmfNyJ7jqzVv",
+    "status": {
+        "height": null,
+        "online": "online",
+        "timestamp": null,
+        "listen_addrs": null
+    },
+    "address": "11256JNcJsyJKQHEJfxCmgZHZ8vtSTgne6YczffXQ7ppkdb9MDdx",
+    "geocode": {
+        "city_id": null,
+        "long_city": null,
+        "long_state": null,
+        "short_city": null,
+        "long_street": null,
+        "short_state": null,
+        "long_country": null,
+        "short_street": null,
+        "short_country": null
+    },
+    "location": null,
+    "elevation": 0,
+    "block_added": 1167312,
+    "location_hex": null,
+    "reward_scale": null,
+    "timestamp_added": "2022-01-05T17:24:30.000000Z",
+    "last_change_block": 1167312,
+    "last_poc_challenge": null
+}

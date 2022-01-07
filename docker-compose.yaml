@@ -18,6 +18,18 @@ services:
       - HACK_LOCAL_ROOT_PARENT=${HACK_LOCAL_ROOT_PARENT}
     volumes:
       - ${HACK_LOCAL_ROOT_PARENT}:/local_parent
+  data-db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: testing123
+      POSTGRES_USER: airbyte
+      POSTGRES_DB: airbyte
+    ports:
+      - 5432:5432
+
+    volumes:
+      - data-db:/var/lib/postgresql/data
   db:
     image: airbyte/db:${VERSION}
     logging: *default-logging
@@ -202,3 +214,5 @@ volumes:
     name: ${DATA_DOCKER_MOUNT}
   db:
     name: ${DB_DOCKER_MOUNT}
+  data-db:
+    {}

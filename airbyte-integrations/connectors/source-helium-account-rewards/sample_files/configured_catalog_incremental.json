@@ -1,0 +1,42 @@
+{
+    "streams": [
+        {
+            "stream": {
+                "name": "helium_account_rewards",
+                "json_schema": {
+                    "$schema": "http://json-schema.org/draft-07/schema#",
+                    "type": "object",
+                    "properties": {
+                        "total": {
+                            "type": "number"
+                        },
+                        "timestamp": {
+                            "type": "string"
+                        },
+                        "sum": {
+                            "type": "integer"
+                        },
+                        "min": {
+                            "type": "number"
+                        },
+                        "median": {
+                            "type": "number"
+                        },
+                        "max": {
+                            "type": "number"
+                        },
+                        "avg": {
+                            "type": "number"
+                        }
+                    }
+                },
+                "supported_sync_modes": [
+                    "full_refresh",
+                    "incremental"
+                ]
+            },
+            "sync_mode": "incremental",
+            "destination_sync_mode": "overwrite"
+        }
+    ]
+}

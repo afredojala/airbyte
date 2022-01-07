@@ -1,0 +1,12 @@
+{"type": "LOG", "log": {"level": "INFO", "message": "Starting syncing SourceHeliumAccountRewards"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Syncing stream: helium_account_rewards "}}
+{"type": "RECORD", "record": {"stream": "helium_account_rewards", "data": {"total": 7.85522024, "timestamp": "2022-01-05T00:00:00.000000Z", "sum": 785522024, "stddev": 0.0087818705065937, "min": 4.6e-07, "median": 0.00338566, "max": 0.07730894, "avg": 0.007070405256525652}, "emitted_at": 1641511375323}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Setting state of helium_account_rewards stream to {'min_time': '2022-01-05', 'max_time': '2022-01-06'}"}}
+{"type": "STATE", "state": {"data": {"helium_account_rewards": {"min_time": "2022-01-05", "max_time": "2022-01-06"}}}}
+{"type": "RECORD", "record": {"stream": "helium_account_rewards", "data": {"total": 8.12102043, "timestamp": "2022-01-06T00:00:00.000000Z", "sum": 812102043, "stddev": 0.0091463699863851, "min": 5.4e-07, "median": 0.004241465, "max": 0.06766405, "avg": 0.007853984941972921}, "emitted_at": 1641511375571}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Setting state of helium_account_rewards stream to {'min_time': '2022-01-06', 'max_time': '2022-01-07'}"}}
+{"type": "STATE", "state": {"data": {"helium_account_rewards": {"min_time": "2022-01-06", "max_time": "2022-01-07"}}}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Read 2 records from helium_account_rewards stream"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Finished syncing SourceHeliumAccountRewards"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "SourceHeliumAccountRewards runtimes:\n"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Finished syncing SourceHeliumAccountRewards"}}

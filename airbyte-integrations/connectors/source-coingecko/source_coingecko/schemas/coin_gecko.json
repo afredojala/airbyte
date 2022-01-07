@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "symbol": {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
+        },
+        "image": {
+            "type": "object"
+        },
+        "market_data": {
+            "type": "object"
+        },
+        "community_data": {
+            "type": "object"
+        },
+        "developer_data": {
+            "type": "object"
+        },
+        "public_interest_stats": {
+            "type": "object"
+        }
+    }
+}

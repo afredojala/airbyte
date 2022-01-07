@@ -1,0 +1,23 @@
+{
+  "documentationUrl": "https://docsurl.com",
+  "connectionSpecification": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Helium Account Rewards Spec",
+    "type": "object",
+    "required": [
+      "account",
+      "date"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "account": {
+        "type": "string",
+        "description": "Set the account to extract account information from"
+      },
+      "date": {
+        "type": "string",
+        "description": "Date to extract from, if set to 1970, will extract from all dates and if set to today, will get the current dates data"
+      }
+    }
+  }
+}
