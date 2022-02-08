@@ -1,0 +1,15 @@
+{"type": "LOG", "log": {"level": "INFO", "message": "Starting syncing SourceHeliumRewards"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Syncing stream: helium_rewards "}}
+{"type": "RECORD", "record": {"stream": "helium_rewards", "data": {"total": 85455.13273622, "timestamp": "2022-01-05T00:00:00.000000Z", "sum": 8545513273622, "stddev": 129.78892164, "min": 1828.21896595, "median": 1828.22158736, "max": 2386.09182455, "avg": 1899.0029496937777}, "emitted_at": 1641660363671}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Setting state of helium_rewards stream to {'min_time': '2022-01-05', 'max_time': '2022-01-06'}"}}
+{"type": "STATE", "state": {"data": {"helium_rewards": {"min_time": "2022-01-05", "max_time": "2022-01-06"}}}}
+{"type": "RECORD", "record": {"stream": "helium_rewards", "data": {"total": 86453.5008937, "timestamp": "2022-01-06T00:00:00.000000Z", "sum": 8645350089370, "stddev": 80.71572704, "min": 1828.21815982, "median": 1886.0905319, "max": 2168.49931405, "avg": 1879.4239324717391}, "emitted_at": 1641660367480}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Setting state of helium_rewards stream to {'min_time': '2022-01-06', 'max_time': '2022-01-07'}"}}
+{"type": "STATE", "state": {"data": {"helium_rewards": {"min_time": "2022-01-06", "max_time": "2022-01-07"}}}}
+{"type": "RECORD", "record": {"stream": "helium_rewards", "data": {"total": 86442.40558655, "timestamp": "2022-01-07T00:00:00.000000Z", "sum": 8644240558655, "stddev": 124.41499989, "min": 1828.2196501, "median": 1886.09175607, "max": 2168.49936556, "avg": 1920.9423463677779}, "emitted_at": 1641660371214}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Setting state of helium_rewards stream to {'min_time': '2022-01-07', 'max_time': '2022-01-08'}"}}
+{"type": "STATE", "state": {"data": {"helium_rewards": {"min_time": "2022-01-07", "max_time": "2022-01-08"}}}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Read 3 records from helium_rewards stream"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Finished syncing SourceHeliumRewards"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "SourceHeliumRewards runtimes:\n"}}
+{"type": "LOG", "log": {"level": "INFO", "message": "Finished syncing SourceHeliumRewards"}}
